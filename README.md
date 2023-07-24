@@ -2,11 +2,11 @@
 
 #实验名称
 
-SM3—birthday-attack
+SM2-PGP
 
 #实验简介
 
-implement the naïve birthday attack of reduced SM3
+Implement a PGP scheme with SM2
 
 #姓名
 
